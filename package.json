@@ -1,9 +1,9 @@
 {
-	"name": "decompress-tar",
+	"name": "@huksley/decompress-tar",
 	"version": "4.1.1",
 	"description": "decompress tar plugin",
 	"license": "MIT",
-	"repository": "kevva/decompress-tar",
+	"repository": "huksley/decompress-tar",
 	"author": {
 		"name": "Kevin Mårtensson",
 		"email": "kevinmartensson@gmail.com",
